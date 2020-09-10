@@ -1,7 +1,7 @@
 Microsoft SQL Server Check and Install
 
 [Install SQL Server 2019 Developer Edition on Windows Server 2019](https://computingforgeeks.com/install-sql-server-developer-edition-on-windows-server/)<br />
-[How To Download And Install SQL 2019 || SQL Server Management Studio 2020](https://www.youtube.com/watch?v=1lOUm5CZlAk)<br/ >
+[How To Download And Install SQL 2019 SQL Server Management Studio 2020](https://www.youtube.com/watch?v=1lOUm5CZlAk)<br/ >
 [SQL SERVER 2019 INSTALLATION STEP BY STEP 2020](https://www.youtube.com/watch?v=bfMoKqpigxI)<br/ >
 
 Check the system
