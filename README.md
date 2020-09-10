@@ -1,2 +1,2 @@
 # windowsmssqlinstall
-Windows Server Microsoft SQL Install and Configuration
+Windows Server Microsoft SQL Installation and Configuration
