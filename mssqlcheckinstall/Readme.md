@@ -4,6 +4,8 @@ Microsoft SQL Server Check and Install
 [How To Download And Install SQL 2019 SQL Server Management Studio 2020](https://www.youtube.com/watch?v=1lOUm5CZlAk)<br/ >
 [SQL SERVER 2019 INSTALLATION STEP BY STEP 2020](https://www.youtube.com/watch?v=bfMoKqpigxI)<br/ >
 
+[Install LAMP Stack CentOS 8 rhel 8](https://www.linuxbabe.com/redhat/install-lamp-stack-centos-8-rhel-8)
+
 Check the system
 * After opening the SQL Server Installation Center
   * Click System Configuration Checker
