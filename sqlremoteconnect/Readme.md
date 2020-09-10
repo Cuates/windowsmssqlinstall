@@ -1,8 +1,8 @@
 SQL Remote Connection
 
-[Windows Firewall Configuration For SQL Server to allow remote connection](https://www.youtube.com/watch?v=3Eyva0OG2tc)
-[Connect to SQL Server from another computer](https://www.youtube.com/watch?v=EqI77fd_1kU)
-[Allow SQL Server through Windows Firewall](https://www.youtube.com/watch?v=3jVTUll4PXs)
+[Windows Firewall Configuration For SQL Server to allow remote connection](https://www.youtube.com/watch?v=3Eyva0OG2tc)<br />
+[Connect to SQL Server from another computer](https://www.youtube.com/watch?v=EqI77fd_1kU)<br />
+[Allow SQL Server through Windows Firewall](https://www.youtube.com/watch?v=3jVTUll4PXs)<br />
 
 * Allow Remove Connection
   * Open SSMS as an administrator
