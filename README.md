@@ -3,23 +3,27 @@
 
 ## Table of Contents
 * [Version](#version)
-* [Windows Server](#system)
+* [Windows Server](#windows server)
+* [Microsoft SQL Server](#microsoft sql server)
+* [Microsoft SQL Server Management Studio (SSMS)](#microsoft sql server management studio (ssms))
+* [Windows Firewall](#windows firewall)
+* [SQL Remote Connection](#sql remote connection)
+* [Router Port Forwarding](#router port forwarding)
+* [Windows Server Remote Desktop](#windows server remote desktop)
 
 ### Version
 * 0.0.1
 
-### [Windows Server]
+### [Windows Server](https://github.com/Cuates/windowsmssqlinstall/tree/master/windowsserver)
 
-### [Windows Server](https://github.com/Cuates/lampcentosinstall/blob/master/system)
+### [Microsoft SQL Server](https://github.com/Cuates/windowsmssqlinstall/tree/master/mssqlcheckinstall)
 
-### [Microsoft SQL Server](https://github.com/Cuates/lampcentosinstall/blob/master/system)
+### [Microsoft SQL Server Management Studio (SSMS)](https://github.com/Cuates/windowsmssqlinstall/tree/master/ssmsinstallcheck)
 
-### [Microsoft SQL Server Management Studio (SSMS)](https://github.com/Cuates/lampcentosinstall/blob/master/system)
+### [Windows Firewall](https://github.com/Cuates/windowsmssqlinstall/tree/master/windowsfirewall)
 
-### [Windows Firewall](https://github.com/Cuates/lampcentosinstall/blob/master/system)
+### [SQL Remote Connection](https://github.com/Cuates/windowsmssqlinstall/tree/master/sqlremoteconnect)
 
-### [SQL Remote Connection](https://github.com/Cuates/lampcentosinstall/blob/master/system)
+### [Router Port Forwarding](https://github.com/Cuates/windowsmssqlinstall/tree/master/routerportforward)
 
-### [Router Port Forwarding](https://github.com/Cuates/lampcentosinstall/blob/master/system)
-
-### [Windows Server Remote Desktop](https://github.com/Cuates/lampcentosinstall/blob/master/system)
+### [Windows Server Remote Desktop](https://github.com/Cuates/windowsmssqlinstall/tree/master/windowsremotedesktop)
