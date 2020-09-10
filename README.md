@@ -3,13 +3,13 @@
 
 ## Table of Contents
 * [Version](#version)
-* [Windows Server](#windows server)
-* [Microsoft SQL Server](#microsoft sql server)
-* [Microsoft SQL Server Management Studio (SSMS)](#microsoft sql server management studio (ssms))
-* [Windows Firewall](#windows firewall)
-* [SQL Remote Connection](#sql remote connection)
-* [Router Port Forwarding](#router port forwarding)
-* [Windows Server Remote Desktop](#windows server remote desktop)
+* [Windows Server](#windows-server)
+* [Microsoft SQL Server](#microsoft-sql-server)
+* [Microsoft SQL Server Management Studio (SSMS)](#microsoft-sql-server-management-studio-(ssms))
+* [Windows Firewall](#windows-firewall)
+* [SQL Remote Connection](#sql-remote-connection)
+* [Router Port Forwarding](#router-port-forwarding)
+* [Windows Server Remote Desktop](#windows-server-remote-desktop)
 
 ### Version
 * 0.0.1
