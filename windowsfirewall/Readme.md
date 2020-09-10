@@ -1,7 +1,7 @@
 Windows Firewall
 
 [How to allow SQL Server thorugh Window Firewall](https://www.youtube.com/watch?v=9O2GLm3iNp8)<br />
-[](https://www.youtube.com/watch?v=9O2GLm3iNp8)<br />
+[How to allow SQL Server thorugh Window Firewall](https://www.youtube.com/watch?v=9O2GLm3iNp8)<br />
 [Allow SQL Server through Windows Firewall](https://www.youtube.com/watch?v=3jVTUll4PXs)<br />
 
 * Allow SQL through Windows Firewall
