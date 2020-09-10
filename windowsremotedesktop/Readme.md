@@ -1,6 +1,5 @@
 Windows Server Remote Desktop
 
-Links
 [Enable Remote Desktop](https://www.rootusers.com/how-to-enable-remote-desktop-in-windows-server-2019/)
 
 * Enable remote connection to Windows Server
