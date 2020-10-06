@@ -20,19 +20,19 @@
           * Right Click: Linked Server
             * Click: Test Connection
 * Example Select Statement
-  `select`<br />
-   `*`<br />
-   `from [Linked_Server_Name_IP_Address].[Databasename].[Objectname].[Tablename]`
+  * `select`<br />
+    `*`<br />
+    `from [Linked_Server_Name_IP_Address].[Databasename].[Objectname].[Tablename]`
 * Example Open Query Statement
-  `select`<br />
-  `sqlserver.*`<br />
-  `from openquery`<br />
-  `(`<br />
-  `"Linked_Server_Name_IP_Address",`<br />
-  `'select`<br />
-  `*`<br />
-  `from [Objectname].[Tablename]'`<br />
-  `) as sqlserver`
+  * `select`<br />
+    `sqlserver.*`<br />
+    `from openquery`<br />
+    `(`<br />
+    `"Linked_Server_Name_IP_Address",`<br />
+    `'select`<br />
+    `*`<br />
+    `from [Objectname].[Tablename]'`<br />
+    `) as sqlserver`
 
 [Creating A Linked Server With A Postgres Database](https://peter-whyte.com/creating-a-linked-server-with-a-postgres-database/)<br />
 [How To Create A Linked Server To Connect To PostgreSQL From SQL Server](https://dbtut.com/index.php/2019/10/22/how-to-create-a-linked-server-to-connect-to-postgresql-from-sql-server/)<br />
