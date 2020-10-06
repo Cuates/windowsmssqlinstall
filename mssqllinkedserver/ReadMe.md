@@ -6,18 +6,19 @@
   * Expand: Server Objects
     * Right Click: Linked Servers
       * Click: New Linked Server
-* General Page
-  * Input: Linked Server
-    * Remote SQL Server you are connecting to
-  * Server type
-    * Select: SQL Server
-* Security Page
-  * Select: Be made using this security context
-    * Input: Remote login username
-    * Input: Remote login password
-* Click: OK
-* Right Click: Linked Server
-  * Click: Test Connection
+        * New Linked Server
+          * General Page
+            * Input: Linked Server
+              * Remote SQL Server you are connecting to
+            * Server type
+              * Select: SQL Server
+          * Security Page
+            * Select: Be made using this security context
+              * Input: Remote login username
+              * Input: Remote login password
+          * Click: OK
+          * Right Click: Linked Server
+            * Click: Test Connection
 * Example Select Statement
   `select`<br />
    `*`<br />
@@ -28,7 +29,7 @@
   `from openquery`<br />
   `(`<br />
   `"Linked_Server_Name_IP_Address",`<br />
-  'select`<br />
+  `'select`<br />
   `*`<br />
   `from [Objectname].[Tablename]'`<br />
   `) as sqlserver`
