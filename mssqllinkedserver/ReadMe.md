@@ -99,7 +99,7 @@
     `"Linked_Server_Name_IP_Address",`<br />
     `'select`<br />
     `*`<br />
-    `from [Objectname].[tablename]'`<br />
+    `from [tablename]'`<br />
     `) as postgresql`
 
 [Create A Linked Server To MySQL From SQL Server](https://www.mssqltips.com/sqlservertip/4577/create-a-linked-server-to-mysql-from-sql-server/)<br />
