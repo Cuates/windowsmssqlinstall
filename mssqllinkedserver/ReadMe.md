@@ -43,6 +43,7 @@
 ### PostgreSQL Linked Server
 * Download and Install PSQL ODBC Drivers
   * [PostgreSQL Drivers](https://www.postgresql.org/ftp/odbc/versions/msi/)
+    * Latest x64 version
 * Install PSQL ODBC Driver
   * Double Click: psqlodbc_x64.msi
   * Click: Next
