@@ -6,10 +6,10 @@ Windows Server Remote Desktop
   * Allow Remote Desktop with the GUI
      * Open Server Manager
      * Select Local Server
-     * Click on Disable link
-     * Select te Remote Tab
-       * Select Allow remote connections to this computer
-       * Click Okay on the pop up
-       * Click Apply
-       * Click Okay
+     * Remote Desktop Click: Disable link
+      * Select the Remote Tab
+        * Select Allow remote connections to this computer
+        * Click Okay on the pop up
+        * Click Apply
+        * Click OK
      * Refresh the properties view
