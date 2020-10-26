@@ -161,6 +161,9 @@
               * Select: Be made using this security context
                 * Input: Username
                 * Input: password
+            * Server Options Tab
+              * RPC: True
+              * RPC Out: True
           * Providers
             * Right Click: MSDASQL
               * Select: Properties
