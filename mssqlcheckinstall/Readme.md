@@ -8,7 +8,7 @@ Check the system
 * After opening the SQL Server Installation Center
   * Click System Configuration Checker
     * Show details and see if everything has passed
-  * Click Okay
+  * Click OK
 
 Install
 * Click the Installation on the left pane
