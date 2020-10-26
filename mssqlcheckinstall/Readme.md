@@ -70,8 +70,7 @@ Install
       * Click Next
     * Ready to Install
       * Check that everything is correct
-      * Click Next
-    * Click Install
-      * Wait for this process to finish (this will take a while)
+      * Click Install
+        * Wait for this process to finish (this will take a while)
     * Check to make sure all Succeeded and Green Check Marks
       * Click Close
