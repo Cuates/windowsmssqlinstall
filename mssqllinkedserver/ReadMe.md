@@ -77,12 +77,19 @@
       * Click: New Linked Server
         * Linked Server
           * New Linked Server
-            * General
+            * General Tab
+              * Linked Server: Input name of linked server
               * Provider: Microsoft OLE DB Provider for ODBC Drivers
-            * Server Options
+              * Product Name: Input description
+              * Database source: Name of ODBC Data Source created above
+            * Security Tab
+              * Select: Be made using this security context
+                * Input: Username
+                * Input: password
+            * Server Options Tab
               * RPC: True
               * RPC Out: True
-              * Click: OK
+            * Click: OK
           * Providers
             * Right Click: MSDASQL
               * Select: Properties
@@ -111,6 +118,7 @@
 ### MariaDB/MySQL Linked Server
 * Download and Install MySQL ODBC Drivers
   * [MySQL Connector And Driver](https://dev.mysql.com/downloads/connector/odbc/)
+    * Latest x64 version
 * Install MySQL ODBC Driver
   * Double Click: mysql-connector-odbc-8.0.21-winx64.msi
   * Click: Next
@@ -142,13 +150,16 @@
     * Right Click: Linked Servers
       * Click: New Linked Server
         * New Linked Server
-          * Linked Server
-            * General
+          * Linked Server           
+            * General Tab
+              * Linked Server: Input name of linked server
               * Provider: Microsoft OLE DB Provider for ODBC Drivers
-            * Server Options
-              * RPC: True
-              * RPC Out: True
-              * Click: OK
+              * Product Name: Input description
+              * Database source: Name of ODBC Data Source created above
+            * Security Tab
+              * Select: Be made using this security context
+                * Input: Username
+                * Input: password
           * Providers
             * Right Click: MSDASQL
               * Select: Properties
