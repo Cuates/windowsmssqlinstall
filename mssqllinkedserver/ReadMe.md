@@ -142,6 +142,7 @@
       * Click: Finish
       * MySQL Connector/ODBC Data Source Configuration
         * Input all information for proper connection
+          * Must allow access to MariaDB for the specific IP address
         * Click: Test
         * Click: OK
 * Open SQL Server Management Studio desktop application
