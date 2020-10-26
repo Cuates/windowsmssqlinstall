@@ -37,6 +37,8 @@ Install
     * Click Next
     * Leave all server configuration options as is except for
       * SQL Server Browser should be set to Automatic
+      * Grant Perform Volumn Maintance Task privilege to SQL Server Database Engine Service
+        * Uncheck
       * Click Next
     * Add Current User to the Database Engine Configuration
     * Select Mixed Mode for authentication Mode (user can either be from a domain or added manually in the SQL instance)
