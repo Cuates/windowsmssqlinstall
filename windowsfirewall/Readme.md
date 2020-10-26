@@ -11,7 +11,7 @@ Windows Firewall
     * Find path to executable and select and copy everything including the double quotes
     * Close properties window
   * Run firewall.cpl
-    * Click Allows an app or feature through Windows firewall
+    * Click Allow an app or feature through Windows firewall
       * If everything is greyed out click change settings
     * Click Allow another app
       * Click Browse
