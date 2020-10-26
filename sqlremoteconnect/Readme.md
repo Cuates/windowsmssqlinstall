@@ -12,7 +12,7 @@
   * Open SQL Server Configuration Manager
     * Expand SQL Server Network Configuration in the left pane
       * Select Protocols for Instance Name
-        * Enable Named Pipes and TCP/IP is not already enabled
+        * Enable Named Pipes and TCP/IP if not already enabled
         * Click Okay to the Warning
       * Right click on TCP/IP
       * Click properties
