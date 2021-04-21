@@ -10,6 +10,7 @@
 * [SQL Remote Connection](#sql-remote-connection)
 * [Router Port Forwarding](#router-port-forwarding)
 * [Windows Server Remote Desktop](#windows-server-remote-desktop)
+* [SSMS Backup](#ssms-backup)
 
 ### Version
 * 0.0.1
@@ -27,3 +28,5 @@
 ### [Router Port Forwarding](https://github.com/Cuates/windowsmssqlinstall/tree/master/routerportforward)
 
 ### [Windows Server Remote Desktop](https://github.com/Cuates/windowsmssqlinstall/tree/master/windowsremotedesktop)
+
+### [SSMS Backup](https://github.com/Cuates/windowsmssqlinstall/tree/master/ssmsbackup)
