@@ -7,12 +7,12 @@ Microsoft SQL Server Management Studio (SSMS)
   * Launch SSMS
     * Make sure you are able to connect to the SQL Server via SSMS
     * Create database
-      * Right click database
-      * Select New database...
-      * Type database name
+      * Right click Databases
+      * Select New Database...
+      * Type Database name
       * Leave Owner as is
-      * Use logical name for file name
-      * Click Okay
+      * Use Logical Name for File Name
+      * Click OK
     * Create new users
       * Login as administrator
       * Expand security
