@@ -15,8 +15,8 @@ Microsoft SQL Server Management Studio (SSMS)
       * Click OK
     * Create new users
       * Login as administrator
-      * Expand security
-      * Right click logins
+      * Expand Security
+      * Right click Logins
       * Select New Login...
       * Type Login name of user
       * Select SQL Server Authentication
