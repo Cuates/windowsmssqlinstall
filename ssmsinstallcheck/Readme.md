@@ -28,12 +28,12 @@ Microsoft SQL Server Management Studio (SSMS)
       * Select a default language
       * Select server roles on the left pane
         * Default server role to public
-      * User mapping
-        * Check map for the database of choice
-        * User default to user name of choice
-        * Default schema is dbo
+      * User Mapping
+        * Check Map for the Database of choice
+        * User default to User name of choice
+        * Default Schema is dbo
         * Check db_reader
         * Check db_writer
         * Check db_owner
         * Leave public checked
-        * Click Okay
+        * Click OK
