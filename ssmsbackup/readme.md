@@ -19,3 +19,4 @@
     * Name: database_instance_backup_date_time
     * Description: Optional
 * Click OK
+* NOTE: If you get a sector error, then remove the old bak file and start again
